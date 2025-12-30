@@ -55,7 +55,7 @@ if st.button("🚀 צור סידור"):
 st.markdown(
     '<div style="text-align:center; direction:rtl; font-size:14px;">'
     '📞 053-4444494 | פותח על ידי ניתאי כהן<br>'
-    'מערכת רישום כיתות מעלה — גרסה מתקדמת'
+    'מערכת סידור העמדות לגף'
     '</div>',
     unsafe_allow_html=True
 )
